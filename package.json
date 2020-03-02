@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.4.3",
+    "csv-parse": "^4.4.6",
     "github-webhook-handler": "^1.0.0",
     "githubhook": "^1.9.3",
     "moment": "^2.24.0",
