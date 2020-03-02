@@ -1,0 +1,18 @@
+{
+  "name": "Github Telegram Event App",
+  "version": "1.0.0",
+  "description": "A Node JS App to send github push events to telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.4.3",
+    "github-webhook-handler": "^1.0.0",
+    "githubhook": "^1.9.3",
+    "moment": "^2.24.0",
+    "node-telegram-bot-api": "^0.40.0"
+    }
+}
