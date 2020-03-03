@@ -9,10 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.4.3",
+    "dotenv": "^8.2.0",
     "github-webhook-handler": "^1.0.0",
-    "githubhook": "^1.9.3",
-    "moment": "^2.24.0",
     "node-telegram-bot-api": "^0.40.0"
-    }
+  }
 }
