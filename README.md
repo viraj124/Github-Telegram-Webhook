@@ -1,4 +1,4 @@
-# Github-Telegram-Webhook-App
+# Github-Telegram-Webhook
 
 ## How it Works?
 For a particular repo to get the alerts you will have to create a [Webhook](https://developer.github.com/webhooks/creating/)
